@@ -1,0 +1,5 @@
+# Java
+Achived One Star in hackerrank Java Scoring.
+Some Tips:
+If input is talen before scan.nextLine(), then we need to bring the cursor to next line before taking next input.
+This can be done by scan.nextLine().
