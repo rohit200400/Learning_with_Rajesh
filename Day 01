@@ -3,3 +3,14 @@ Achived One Star in hackerrank Java Scoring.
 Some Tips:
 If input is talen before scan.nextLine(), then we need to bring the cursor to next line before taking next input.
 This can be done by scan.nextLine().
+Summarizing todays learnings:
+-intro to Java
+-commenting in Java
+-Constants to be defined in Capitals letters. final keyword to be used in front of constant declaration.
+-Variable Types (a) Premutive (b) Non premetive- variable size
+-String functions (a) Concatenate (b) chatAt(x) (c) replace(a,c) (d) substring(index_1, index_2) (e) strings are immutable
+- Math function moduls (1) random() (2) max()
+- input using scanner module:
+    scanner scan = new scanner(system.in);
+    variableType variableName = scan.nextFloat(); // here it takes next float in the terminal we can use nextint(), nextLine(), next()
+    
