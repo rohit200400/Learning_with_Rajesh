@@ -1,2 +1,11 @@
 The ? operator is something new I got to know in Java.
 The Static variable, block, method.
+Calender Class:
+Q=You are given a date. You just need to write the method, findDay, which returns the day on that date.
+public static String findDay(int month, int day, int year) {
+        Calendar cal = Calendar.getInstance();  //getting todays date
+        cal.set(Calendar.MONTH, month-1);       // setting month
+        cal.set(Calendar.DAY_OF_MONTH, day);    // setting date
+        cal.set(Calendar.YEAR, year);           // setting Year
+        return cal.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG,Locale.US).toUpperCase();     //converting date to string adn to upper case
+    }
