@@ -5,3 +5,4 @@ Time complexity of an algorithm quantifies the amount of time taken by an algori
 2. Ω-notation: Best Case senario OR Lower bound
 3. 𝚯-notation: average time of a program.
 Space Complexity : It is directly proportional to the largest memory your program acquires at any instance during run time.
+Functions can be directly called. Where as, Methods are associated with objects.
