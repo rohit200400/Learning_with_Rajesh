@@ -1,2 +1,7 @@
 Learning SQL and starting the DSA90 Days
 Today Time Complexity and space complexity
+Time complexity of an algorithm quantifies the amount of time taken by an algorithm to run as a function of the length of the input. 
+1.O-notation: Worst case senario OR upper bound
+2. Ω-notation: Best Case senario OR Lower bound
+3. 𝚯-notation: average time of a program.
+Space Complexity : It is directly proportional to the largest memory your program acquires at any instance during run time.
