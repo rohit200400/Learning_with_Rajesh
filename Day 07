@@ -2,3 +2,6 @@
 last 2 days were busy days.
 started solving string problems in hackerrank.
 Used substring() method :eg.mburger".substring(4, 8) returns "urge"
+There is no negative indexing in Java. we cant access last element of array as: Array[-1]
+to access last element: Array[Array.length-1]
+s1.compareTo(s2) method compares strings Lexiographacally
